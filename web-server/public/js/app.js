@@ -1,5 +1,3 @@
-console.log("Inside Client side Js app.js");
-
 // const url = "http://localhost:3000/weather?address=Boston";
 const url = "http://localhost:3000/weather?address=";
 
